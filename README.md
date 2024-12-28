@@ -31,7 +31,8 @@
 <img width="383" alt="image" src="https://github.com/user-attachments/assets/896d46fd-1998-4be8-8e5d-3197edbe6848" />
 
 
-<img width="1199" alt="DashBoard2" src="https://github.com/user-attachments/assets/921f9ad7-1fd3-49da-8e97-3161e21ed74f" />
+<img width="1185" alt="Screenshot 2024-12-27 at 6 01 30 PM" src="https://github.com/user-attachments/assets/b753955e-59e3-46a0-99c5-271c59175f59" />
+
 
 ### Filters On dashboard
 <img width="1202" alt="Filters with DB" src="https://github.com/user-attachments/assets/81b49997-7f3d-468b-80db-a5ac164701de" />
