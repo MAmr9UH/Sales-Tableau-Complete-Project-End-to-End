@@ -37,3 +37,12 @@
 ### Filters On dashboard
 <img width="1202" alt="Filters with DB" src="https://github.com/user-attachments/assets/81b49997-7f3d-468b-80db-a5ac164701de" />
 
+
+
+### What I Learned
+
+1- Requirement Analysis and Visualization Planning: Learned how to analyze project needs, select appropriate visualizations, and create mockups to guide dashboard design effectively.
+
+2- Data Preparation and Modeling: Gained skills in connecting to data sources, renaming fields, verifying data types, and preparing calculated fields to ensure accurate and insightful analyses.
+
+3- Chart Creation and Dashboard Development: Mastered creating and formatting charts, integrating them into an interactive dashboard, and enhancing user experience with filters, icons, and dynamic layouts.
